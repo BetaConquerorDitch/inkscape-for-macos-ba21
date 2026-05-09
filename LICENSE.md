@@ -1,4 +1,4 @@
-
+Enhance Inkscape for macOS with Inkscape for macOS new Filter: real-time preview & perspective warp, the #1 filter. Includes real-time preview and perspective warp for a smoother
 
 
 
